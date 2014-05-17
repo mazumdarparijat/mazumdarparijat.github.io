@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Making Machines Learn]]></title>
   <link href="http://mazumdarparijat.github.io/atom.xml" rel="self"/>
   <link href="http://mazumdarparijat.github.io/"/>
-  <updated>2014-05-17T17:42:47+05:30</updated>
+  <updated>2014-05-17T18:25:54+05:30</updated>
   <id>http://mazumdarparijat.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Parijat Mazumdar]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
