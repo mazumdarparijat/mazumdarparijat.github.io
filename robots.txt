@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://mazumdarparijat.github.io/sitemap.xml 
